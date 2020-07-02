@@ -26,7 +26,7 @@
 
 ## Description
 
-Attempt to dockerize "task management" project from Udemy course "NestJS Zero to Hero - Modern TypeScript Back-end Development"
+Attempt to dockerize "task management" project from Udemy course "NestJS Zero to Hero - Modern TypeScript Back-end Development" (https://www.udemy.com/course/nestjs-zero-to-hero/)
 
 ## Running the app
 
