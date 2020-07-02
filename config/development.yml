@@ -1,0 +1,8 @@
+db:
+  host: 'postgres'
+  username: 'postgres'
+  password: 'password'
+  synchronize: true
+
+jwt:
+  secret: SecretKeyTest
